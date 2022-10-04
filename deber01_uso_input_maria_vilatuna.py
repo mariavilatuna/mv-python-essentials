@@ -3,7 +3,7 @@
 """
 Created on Thu Sep 29 20:25:57 2022
 
-@author: maferv
+@author: mariav
 """
 print("Formulario de registro Emprea Horizontes")
 print("El presente formulario corresponde al ingreso de información personal para el registro del curso de Design thinking")
