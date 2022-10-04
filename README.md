@@ -1,2 +1,2 @@
 # mv-python-essentials
-Repositorio para registrar scripts del curso python essentials
+Repositorio para cargar scripts del curso python essentials
